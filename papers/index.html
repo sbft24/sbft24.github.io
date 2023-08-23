@@ -1,0 +1,55 @@
+---
+title: SBFT'23 Accepted Papers
+layout: default
+---
+<div class="col-md-8 ml-auto mr-auto text-left">
+    <h1 class="title">Accepted Papers and Tools</h1>
+
+    <br>
+
+    <div class="container">
+        <h3>Research Track</h3>
+        <div class="table-condensed">
+            <table class="committee-table">
+                {% assign papers = site.data.program.researchpapers | sort: "title" %}
+                {% include paper_section.html %}
+            </table>
+        </div>
+    </div>
+
+    <br>
+
+    <div class="container">
+        <h3>Fuzzing Tool Competition</h3>
+        <div class="table-condensed">
+            <table class="committee-table">
+                {% assign papers = site.data.program.fuzztools | sort: "title" %}
+                {% include paper_section.html %}
+            </table>
+        </div>
+    </div>
+
+    <br>
+
+    <div class="container">
+        <h3>Java Tool Competition</h3>
+        <div class="table-condensed">
+            <table class="committee-table">
+                {% assign papers = site.data.program.javatools | sort: "title" %}
+                {% include paper_section.html %}
+            </table>
+        </div>
+    </div>
+
+    <br>
+
+    <div class="container">
+        <h3>CPS Tool Competition</h3>
+        <div class="table-condensed">
+            <table class="committee-table">
+                {% assign papers = site.data.program.cpstools | sort: "title"%}
+                {% include paper_section.html %}
+            </table>
+        </div>
+    </div>
+</div>

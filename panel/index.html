@@ -1,0 +1,21 @@
+---
+title: SBFT'23 Discussion Panel
+layout: default
+---
+<div class="col-md-8 ml-auto mr-auto text-center">
+    <h1 class="title">Discussion Panel</h1>
+    <h2>Testing and Security for Cyber-Physical Systems</h2>
+    <p><iframe width="100%" height="315" src="https://www.youtube.com/embed/EF13eiidhA0?start=4675" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    <p class="text-justify">This year's panel will delve deeper into the specific SBFT challenges and solutions related to testing and securing Cyber-Physical Systems (CPS). Our panel will be composed of experts from academia (and industry) who will discuss the current challenges in CPS testing and security, such as vulnerability management, adversarial attacks, and the integration of AI-components in physical decision-making systems. We will also explore state-of-the-art solutions for CPS testing, including techniques such as SBST and Fuzzing, and discuss the potential pitfalls and limitations of these methods. Additionally, we will discuss the unique challenges of testing and securing autonomous systems and other CPS that make physical decisions based on AI-components. Our goal is to provide a comprehensive overview of the current state of CPS testing and security, and to identify future work that needs to be done to address these challenges. This panel will be a valuable opportunity for researchers, practitioners, and anyone interested in the field of CPS testing and security to learn about the latest advancements and to engage in lively discussions about the future of this field.</p>
+    <div class="section section-team">
+        <h2 class="subtitle">Panellists</h2>
+        <div class="team">
+            <div class="row">
+                {% assign members = site.data.panellists | sort: "name" %}
+                {% for member in members %}
+                {%- include member.html -%}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
