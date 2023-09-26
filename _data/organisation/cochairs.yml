@@ -1,15 +1,15 @@
-- name: Giovani Guizzo
-  webpage: https://sites.google.com/view/giovaniguizzo/home
-  institution: University College London, United Kingdom
-  pic: /img/gguizzo.jpg
+- name: Gunel Jahangirova
+  webpage: https://sites.google.com/view/guneljahangirova
+  institution: King's College London, United Kingdom
+  pic: /img/gunel.jpg
 
-- name: Sebastiano Panichella
-  webpage: https://spanichella.github.io
-  institution: Zurich University of Applied Science, Switzerland
-  pic: /img/sebastiano.png
+- name: Vincenzo Riccio
+  webpage: https://p1ndsvin.github.io/
+  institution: University of Udine, Italy
+  pic: /img/vincenzo.png
 
 - name: Alessio Gambi
   webpage: https://www.fh-krems.ac.at/en/university/team/alessio-gambi/
-  institution: IMC University of Applied Sciences Krems
+  institution: IMC Krems University of Applied Sciences, Austria
   pic: /img/AlessioGambi.png
   
