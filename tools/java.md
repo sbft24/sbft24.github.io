@@ -1,5 +1,5 @@
 ---
-title: SBFT'23 Java Competition Instructions
+title: SBFT'24 Java Competition Instructions
 layout: md
 ---
 # Java Test Case Generation Tool Competition

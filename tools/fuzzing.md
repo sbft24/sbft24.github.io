@@ -1,5 +1,5 @@
 ---
-title: SBFT'23 Fuzzing Competition Instructions
+title: SBFT'24 Fuzzing Competition Instructions
 layout: md
 ---
 
