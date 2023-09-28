@@ -41,6 +41,17 @@ layout: default
       </div>
     </div>
      <br>
+     <div class="container">
+      <h2 class="title">Education Track Co-Chairs</h2>
+      <div class="team">
+        <div class="row">
+          {% assign members = site.data.organisation.education | sort: "name" %}
+          {% for member in members %}
+          {%- include member.html -%}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
     <!--
     <div class="container">
       <h2 class="title">Virtualisation Support & Student Volunteer</h2>
