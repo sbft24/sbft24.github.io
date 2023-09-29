@@ -73,3 +73,13 @@
   webpage: https://www.sydney.edu.au/engineering/about/our-people/academic-staff/xi-wu.html
   institution: University of Sydney, Australia
   pic: /img/xi_wu.jpg
+
+- name: Philipp Görs
+  webpage: https://cispa.de/en/people/c01phgo
+  institution: Helmholtz Center for Information Security, Germany
+  pic: /img/goers.png
+
+- name: Joschua Schilling
+  webpage: https://cispa.de/en/people/c03josc
+  institution: Helmholtz Center for Information Security, Germany
+  pic: /img/schilling.jpg
