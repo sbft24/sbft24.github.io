@@ -50,6 +50,7 @@ Finally, the winners will be announced live during the workshop in April.
 ## Organizers
 The Python tool competition is organized jointly by:
 * Nicolas Erni (Zurich University of Applied Sciences) - gann@zhaw.ch
+* Al-Ameen Mohammed Ali Mohammed (Zurich University of Applied Sciences) - alam@zhaw.ch
 * Christian Birchler (Zurich University of Applied Sciences) - birc@zhaw.ch
 * Pouria Derakhshanfar (JetBrains) - pouria.derakhshanfar@jetbrains.com
 * Stephan Lukasczyk (University of Passau) - stephan.lukasczyk@uni-passau.de
