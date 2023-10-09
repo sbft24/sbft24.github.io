@@ -132,3 +132,7 @@ footer{
     display: flex;
     justify-content: space-between;
 }
+
+.nav-center {
+    text-align: center;
+}
