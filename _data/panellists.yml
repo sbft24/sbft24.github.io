@@ -27,3 +27,28 @@
   webpage: https://www.nms.kcl.ac.uk/mohammad.mousavi/
   institution: King's College London, United Kingdom
   pic: /img/mohammad.jpg
+
+- name: Jim Whitehead  
+  webpage: https://users.soe.ucsc.edu/~ejw/
+  institution: University of California, Santa Cruz, USA
+  pic: /img/whitehead.jpg
+
+- name: Caroline Lemieux  
+  webpage: https://www.carolemieux.com
+  institution: University of British Columbia, Canada
+  pic: /img/lemieux.jpg
+
+- name: Mark Harman  
+  webpage: http://www0.cs.ucl.ac.uk/staff/M.Harman/
+  institution: Meta & University College London, United Kingdom
+  pic: /img/harman.jpg
+
+- name: Jie M. Zhang  
+  webpage: https://sites.google.com/view/jie-zhang/home
+  institution: King's College London, United Kingdom
+  pic: /img/jzhang.jpg
+
+- name: Andreas Zeller  
+  webpage: https://andreas-zeller.info
+  institution: CISPA and Saarland University, Germany
+  pic: /img/zeller.jpg
