@@ -22,7 +22,7 @@ The infrastructure concerning the Python tool competition is available on GitHub
 ## Competition Process
 To participate effectively in the Python Tool Competition, it is essential to follow a structured approach. Firstly, dedicate time to developing your Python test generators, ensuring they are robust and efficient. Once your generators are ready, test them rigorously using the provided target files to validate their functionality and effectiveness. Following successful testing, adhere to the submission instructions to submit your tool for evaluation. It's important to note that the evaluation of submitted tools will be based on coverage and mutation score metrics, utilizing target files that are not disclosed to the participants. Therefore, the thoroughness of your test generators will play a critical role in your tool's performance and ranking in the competition.
 
-## Tool submission (by 9 November’23 AoE)
+## Tool submission (by 1 December’23 AoE)
 To submit your test generator for the competition, please send an email to all the organizers listed below:
 
 * Nicolas Erni (Zurich University of Applied Sciences) - gann@zhaw.ch
