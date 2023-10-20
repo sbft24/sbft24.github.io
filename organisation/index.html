@@ -30,10 +30,10 @@ layout: default
     </div>
     <br>
     <div class="container">
-      <h2 class="title">Website Chair</h2>
+      <h2 class="title">Website Co-Chairs</h2>
       <div class="team">
         <div class="row">
-          {% assign members = site.data.organisation.webchair | sort: "name" %}
+          {% assign members = site.data.organisation.webchair %}
           {% for member in members %}
           {%- include member.html -%}
           {% endfor %}
