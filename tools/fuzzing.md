@@ -43,13 +43,8 @@ For our competition, we use Google's [FuzzBench](https://google.github.io/fuzzbe
   * collects code coverage and bug-finding information.
 
 **Related work**
-* [ESEC/FSE'21] "[FuzzBench: An Open Fuzzer Benchmarking Platform and Service](https://research.google/pubs/pub50600.pdf)",<br/> J. Metzman, L. Szekeres, L.M.R. Simon, R.T. Sprabery, and A. Arya.
-* [ICSE'22] "[On the Reliability of Coverage-Based Fuzzer Benchmarking](https://mboehme.github.io/paper/ICSE22.pdf)"<br/> M. B&ouml;hme, L. Szekeres, and J. Metzman.
-* [CCS'18] "[Evaluating Fuzz Testing](https://dl.acm.org/doi/10.1145/3243734.3243804)"<br/> G. Klees, A. Ruef, B. Cooper, S. Wei, M. Hicks
 * [USENIX'23] "[Systematic Assessment of Fuzzers using Mutation Analysis](https://arxiv.org/abs/2212.03075)" Philipp Görz, Björn Mathis, Keno Hassler, Emre Güler, Thorsten Holz, Andreas Zeller, Rahul Gopinath
-* [ESEC/FSE’21] “[FuzzBench: An Open Fuzzer Benchmarking Platform and Service](https://research.google/pubs/pub50600.pdf)”,
-J. Metzman, L. Szekeres, L.M.R. Simon, R.T. Sprabery, and A. Arya.
-
+* [ESEC/FSE’21] “[FuzzBench: An Open Fuzzer Benchmarking Platform and Service](https://research.google/pubs/pub50600.pdf)”, J. Metzman, L. Szekeres, L.M.R. Simon, R.T. Sprabery, and A. Arya.
 
 
 ## Competition Process
