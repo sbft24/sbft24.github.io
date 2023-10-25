@@ -66,5 +66,8 @@ For our competition, we use Google's [FuzzBench](https://google.github.io/fuzzbe
 
 **Results**. Finally, the winners will be announced live during the workshop in April.
 
+## Prizes and awards
+Top-performing participants will be eligible to be considered for a new OSS-Fuzz [FuzzBench integration reward](https://bughunters.google.com/about/rules/5097259337383936/oss-fuzz-reward-program-rules){:target="_blank"} (up to $11,337, depending on impact).
+
 ## Organizers
 The fuzzing competition is organized jointly by the [Software Engineering Group](https://soft-eng.sydney.edu.au/) of [University of Sydney](https://github.com/sbft24/sbft24.github.io/issues/sydney.edu.au/) lead by [Rahul Gopinath](https://rahul.gopinath.org/), [Huaming Chen](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/huaming-chen.html), and [Xi Wu](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/xi-wu.html), and [Philipp Görz](https://cispa.de/en/people/c01phgo), and [Joschua Schilling](https://cispa.de/en/people/c03josc) of [CISPA Helmholtz Center for Information Security, Germany](https://cispa.de/)
