@@ -7,7 +7,7 @@ layout: md
 
 ## tl;dr
 
-* Express your interest [here](https://forms.gle/pwxtqgEaN724NESC9) (Deadline: **AoE Friday 01 Dec 2024**).
+* Express your interest [here](https://forms.gle/pwxtqgEaN724NESC9) (Deadline: **AoE Friday 01 Dec 2023**).
 * Write a fuzzer for C/C++ programs (or choose an existing fuzzer and _make your own novel modifications_).
 * Maximize the mutation score and coverage achieved in 23 hours.
 * Integrate fuzzer into [FuzzBench](https://google.github.io/fuzzbench/getting-started/adding-a-new-fuzzer/) (Deadline: **AoE Friday 28 Dec 2023**).
