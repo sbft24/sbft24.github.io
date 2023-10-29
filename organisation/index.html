@@ -67,8 +67,7 @@ layout: default
     <br><br>
     <div class="container">
       <h2 class="title text-center">Program Committee</h2>
-      <p>The members of the PC will be published soon!</p>
-      <!--
+      <h3 class="title text-center">Research Track</h3>
       <div class="table-condensed">
         <table class="committee-table">
           {% assign members = site.data.organisation.pc | sort: "name" %}
@@ -78,7 +77,19 @@ layout: default
           </tr>
           {% endfor %}
         </table>
-      </div>-->
+      </div>
+      <p></p>
+      <h3 class="title text-center">Education Track</h3>
+      <div class="table-condensed">
+        <table class="committee-table">
+          {% assign members = site.data.organisation.pcedu | sort: "name" %}
+          {% for member in members %}
+          <tr>
+            <td><a target="_blank" href="{{member.webpage}}">{{member.name}}</a>, {{member.institution}}</td>
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
     </div>
   </div>
 </div>
