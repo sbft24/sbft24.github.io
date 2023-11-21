@@ -26,6 +26,7 @@ To participate effectively in the Python Tool Competition, it is essential to fo
 To submit your test generator for the competition, please send an email to all the organizers listed below:
 
 * Nicolas Erni (Zurich University of Applied Sciences) - gann@zhaw.ch
+* Al-Ameen Mohammed Ali Mohammed (Zurich University of Applied Sciences) - alam@zhaw.ch
 * Christian Birchler (Zurich University of Applied Sciences) - birc@zhaw.ch
 * Pouria Derakhshanfar (JetBrains) - pouria.derakhshanfar@jetbrains.com
 * Stephan Lukasczyk (University of Passau) - stephan.lukasczyk@uni-passau.de
