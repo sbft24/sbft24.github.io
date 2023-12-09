@@ -30,6 +30,18 @@ layout: default
     </div>
     <br>
     <div class="container">
+      <h2 class="title">Finance Chair</h2>
+      <div class="team">
+        <div class="row">
+          {% assign members = site.data.organisation.financechair %}
+          {% for member in members %}
+          {%- include member.html -%}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="container">
       <h2 class="title">Website Co-Chairs</h2>
       <div class="team">
         <div class="row">
